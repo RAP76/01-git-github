@@ -8,8 +8,11 @@ Dikesempatan kali ini, saya akan memaparkan ilmu apa yang saya dapatkan setelah 
 5. Maka tampilan awal dari aplikasi tersebut seperti ini 
 
 ![Tampilan Gui](https://user-images.githubusercontent.com/91443382/134844421-dbf0995f-f1ef-4203-bf63-4f4720695ea2.png)
+
 6. Sama seperti sebelumnya, untuk membuka Git Bash adalah ketikkan **git bash** dikolom search pc lalu tekan enter.
 7. Maka tampilan dari Git Bash tersebut seperti ini
+
+![Tampilan Bash](https://user-images.githubusercontent.com/91443382/134844941-494556b8-1fef-4627-8a9f-96406601cbda.png)
 
 
 
