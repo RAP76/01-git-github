@@ -10,5 +10,12 @@
 
 ![CMD 3](https://user-images.githubusercontent.com/91443382/135701238-06c6824b-90dc-4c27-a97b-ff03fd80953b.png)
 
+3. Untuk melihat konfigurasinya adalah
+
+![CMD 4](https://user-images.githubusercontent.com/91443382/135701292-264aaaf8-2925-42cb-b4a2-3bb808628b18.png)
+
+untuk melakukan konfigurasi cukup dilakukan sekali.
+
+Selesai.
 
 
