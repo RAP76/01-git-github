@@ -5,3 +5,8 @@
 ![Open CMD](https://user-images.githubusercontent.com/91443382/135265503-0e2a42b6-78c1-4733-a0c6-20bdd061defd.png)
 
 2. Setelah itu ketikkan 
+
+![CMD 2](https://user-images.githubusercontent.com/91443382/135701183-6a34ac5d-2284-40a9-bedf-d310c5829d2a.png)
+
+
+
